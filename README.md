@@ -35,6 +35,9 @@ The dataset consists of income and expense statements for the year 2021, compris
 
 ## Dashboard Overview
 
+![image](https://github.com/user-attachments/assets/2f45a1de-4c8d-4d5e-a440-f4819ac24d88)
+
+
 ![Animation](https://github.com/user-attachments/assets/d0261457-73e7-4ae6-bd8b-99a7f0f1370f)
 
 
