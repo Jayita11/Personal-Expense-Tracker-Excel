@@ -1,6 +1,5 @@
 # Personal-Expense-Tracker-Excel
 
-# Personal Expenses Dashboard
 
 ## Project Overview
 The Personal Expenses Dashboard is a comprehensive financial analysis tool designed to provide detailed insights into your income and expenditures. The dashboard leverages data from income and expense statements for the year 2021, offering a clear and hierarchical view of your financial activity. This tool aims to assist in making informed financial decisions through easy-to-read visualizations and key performance indicators (KPIs).
