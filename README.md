@@ -40,5 +40,16 @@ The dataset consists of income and expense statements for the year 2021, compris
 
 ![Animation](https://github.com/user-attachments/assets/d0261457-73e7-4ae6-bd8b-99a7f0f1370f)
 
+## Technical Skills Utilized
+- **Data Analysis:** Using Microsoft Excel for data manipulation.
+- **Data Visualization:** Creating charts and graphs in Excel.
+- **Dashboard Development:** Implementing an interactive dashboard with Excel.
+- **Automation:** Developing macros and using VBA for enhanced functionality.
+- **Version Control:** Managing the project with Git and GitHub.
 
+## Soft Skills Demonstrated
+- **Attention to Detail:** Ensuring data accuracy and meaningful visualization.
+- **Analytical Thinking:** Interpreting data to derive actionable insights.
+- **Problem-Solving:** Addressing data-related challenges and optimizing dashboard functionality.
+- **Communication:** Effectively presenting financial data in a user-friendly manner.
 
