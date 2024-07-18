@@ -33,19 +33,6 @@ The dataset consists of income and expense statements for the year 2021, compris
 3. **Monthly Transition Chart:** Combined view of income and expenses on a monthly basis.
 4. **KPI Cards:** Key financial indicators for quick decision-making.
 
-## Technical Skills Utilized
-- **Data Analysis:** Using Python and Pandas for data manipulation.
-- **Data Visualization:** Creating charts and graphs using Matplotlib and Seaborn.
-- **Dashboard Development:** Implementing an interactive dashboard with Plotly and Dash.
-- **Version Control:** Managing the project with Git and GitHub.
 
-## Soft Skills Demonstrated
-- **Attention to Detail:** Ensuring data accuracy and meaningful visualization.
-- **Analytical Thinking:** Interpreting data to derive actionable insights.
-- **Problem-Solving:** Addressing data-related challenges and optimizing dashboard functionality.
-- **Communication:** Effectively presenting financial data in a user-friendly manner.
 
-## Usage Instructions
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/personal-expenses-dashboard.git
+
