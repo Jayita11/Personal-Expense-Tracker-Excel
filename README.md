@@ -33,6 +33,7 @@ The dataset consists of income and expense statements for the year 2021, compris
 3. **Monthly Transition Chart:** Combined view of income and expenses on a monthly basis.
 4. **KPI Cards:** Key financial indicators for quick decision-making.
 
+## Dashboard Overview
 
 
 
