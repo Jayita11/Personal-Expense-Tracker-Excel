@@ -11,16 +11,12 @@ The dataset consists of income and expense statements for the year 2021, compris
 1. **Data Extraction and Transformation:**
    - Transformed raw, unstructured data into a structured, tabular format using Microsoft Excel.
    - Employed various Excel formulae, including IF, COUNTA, and IF AND functions, for data analysis.
-
 2. **Data Compilation and Analysis:**
    - Generated Pivot tables to compile key financial data and reports.
    - Used Lookup functions to streamline data referencing and consolidation.
    - Developed transition charts to analyze financial transitions and trends.
-
 3. **Automation and Enhancement:**
-   - Created Excel macros to automate repetitive tasks, including the display and concealment of job categorization cards with tabular information.
    - Automated manual filter removal from slicers using macros and VBA.
-
 4. **Dashboard Development:**
    - Designed and implemented an interactive dashboard in Excel to visualize income and expenses.
    - Incorporated key performance indicators (KPIs) for quick decision-making.
