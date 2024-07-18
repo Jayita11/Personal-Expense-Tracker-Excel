@@ -8,10 +8,23 @@ The Personal Expenses Dashboard is a comprehensive financial analysis tool desig
 The dataset consists of income and expense statements for the year 2021, comprising 10 columns and 487 rows. This data includes various categories of income and expenditures, which are analyzed to provide valuable insights.
 
 ## Key Steps in the Project
-1. **Data Collection:** Importing and cleaning the income and expense data.
-2. **Data Transformation:** Categorizing income and expenses, and calculating key metrics.
-3. **Data Visualization:** Creating charts and graphs to visualize the data.
-4. **Dashboard Development:** Designing and implementing an interactive dashboard for easy data exploration.
+1. **Data Extraction and Transformation:**
+   - Transformed raw, unstructured data into a structured, tabular format using Microsoft Excel.
+   - Employed various Excel formulae, including IF, COUNTA, and IF AND functions, for data analysis.
+
+2. **Data Compilation and Analysis:**
+   - Generated Pivot tables to compile key financial data and reports.
+   - Used Lookup functions to streamline data referencing and consolidation.
+   - Developed transition charts to analyze financial transitions and trends.
+
+3. **Automation and Enhancement:**
+   - Created Excel macros to automate repetitive tasks, including the display and concealment of job categorization cards with tabular information.
+   - Automated manual filter removal from slicers using macros and VBA.
+
+4. **Dashboard Development:**
+   - Designed and implemented an interactive dashboard in Excel to visualize income and expenses.
+   - Incorporated key performance indicators (KPIs) for quick decision-making.
+   - Created weekly and monthly expense views, and identified top expenditure categories.
 
 ## Dashboard Components
 1. **Income Analysis:**
